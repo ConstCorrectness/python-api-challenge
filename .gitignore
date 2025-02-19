@@ -170,7 +170,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-
 # don't push api keys to github
 api_keys.py
-
